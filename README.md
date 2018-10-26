@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-Trouble maker merge conflict
+Just something goin on
